@@ -12,7 +12,7 @@ For  more information on how to keep yourself and your family safe visit the
 [NCDC][1]
 
 ### Race Bar Chart of Cases Across States
-[][2]
+[![Watch the video](rbc/racebarchart.png)](https://race-barchart.s3.amazonaws.com/race_barchart.mp4)
 
 
 
@@ -22,4 +22,3 @@ For  more information on how to keep yourself and your family safe visit the
 
 
 [1]: https://ncdc.gov.ng/
-[2]: https://race-barchart.s3.amazonaws.com/race_barchart.mp4
