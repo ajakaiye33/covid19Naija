@@ -1,4 +1,4 @@
-## Covid19: Nigeria, 'How market?'!
+## Covid19: Nigeria Experience!
 
 The dreaded Covid19 is ravaging the entire world and Nigeria being an active
 member of the global community with a very mobile population can't be an exception.
@@ -9,7 +9,17 @@ The  attached notebook depicts an exploration of the data and an attempt to
 predict the growth of confirmed cases using the a simple logistic growth model.
 
 For  more information on how to keep yourself and your family safe visit the
-![Nigeria Center For Disease Control]('https://ncdc.gov.ng/')
+[NCDC][1]
 
-## Race Bar Chart of Cases Across States
-![](race_barchart.mp4)
+### Race Bar Chart of Cases Across States
+![Race Bar Chart][2]
+
+
+
+
+
+
+
+
+[1]: https://ncdc.gov.ng/
+[2]: race_barchart.mp4
