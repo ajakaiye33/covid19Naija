@@ -12,7 +12,7 @@ For  more information on how to keep yourself and your family safe visit the
 [NCDC][1]
 
 ### Race Bar Chart of Cases Across States
-![ Play Race Bar Chart][2]
+[ Play Race Bar Chart][2]
 
 
 
