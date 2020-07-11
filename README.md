@@ -1,4 +1,4 @@
-## Covid19: Nigeria Experience!
+## Covid19: Nigeria's Experience!
 
 The dreaded Covid19 is ravaging the entire world and Nigeria being an active
 member of the global community with a very mobile population can't be an exception.
@@ -12,7 +12,7 @@ For  more information on how to keep yourself and your family safe visit the
 [NCDC][1]
 
 ### Race Bar Chart of Cases Across States
-![Race Bar Chart][2]
+![][2]
 
 
 
@@ -22,4 +22,4 @@ For  more information on how to keep yourself and your family safe visit the
 
 
 [1]: https://ncdc.gov.ng/
-[2]: race_barchart.mp4
+[2]: https://race-barchart.s3.amazonaws.com/race_barchart.mp4
