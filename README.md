@@ -9,7 +9,7 @@ The  attached notebook depicts an exploration of the data and an attempt to
 predict the growth of confirmed cases using the a simple logistic growth model.
 
 For  more information on how to keep yourself and your family safe visit the
-[Nigeria Center For Disease Control]('https://ncdc.gov.ng/')
+![Nigeria Center For Disease Control]('https://ncdc.gov.ng/')
 
 ## Race Bar Chart of Cases Across States
-![](covid19Naija/data/race_barchart.mp4)
+![](race_barchart.mp4)
