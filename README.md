@@ -10,4 +10,4 @@ predict the growth of confirmed cases using a simple logistic growth model and
 facebook's **prophet** package.
 
 ### Race Bar Chart of Cases Across States
-[![Watch the video](rbc/racebarchart.png)](https://race-barchart.s3.amazonaws.com/race_barchart.mp4)
+[![Watch the video](rbc/race_bar.png)](https://race-barchart.s3.amazonaws.com/covid_animated_bar.mp4)
